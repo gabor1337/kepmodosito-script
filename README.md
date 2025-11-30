@@ -62,8 +62,7 @@ Mindkét irányú konverzió automatikusan, batch módban működik.
 
 ### Kimenet
 
-A feldolgozott képek a következő helyre kerülnek:
-  output mappába
+A feldolgozott képek a következő helyre kerülnek: <kiválasztott mappa>/output/
 
 A fájlnevek automatikusan kiegészülnek a művelet jelölésével, pl.:
 
@@ -84,13 +83,14 @@ A fájlnevek automatikusan kiegészülnek a művelet jelölésével, pl.:
 A program futtatásához Python és két csomag szükséges:
 
 pip install pillow
+
 pip install tk
 
 -----------------------
 
 ### Használat:
 
-I. Futtasd a programot: Futtasd a programot:
+I. Futtasd a programot: Futtasd a programot: python main.py
 
 II. Válaszd ki a képeket tartalmazó mappát (egy fájlböngésző ablak jelenik meg).
 
