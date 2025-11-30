@@ -66,15 +66,11 @@ A feldolgozott képek a következő helyre kerülnek: <kiválasztott mappa>/outp
 
 A fájlnevek automatikusan kiegészülnek a művelet jelölésével, pl.:
 
-  kep1_resized_800px.jpg
-  
-  kep2_compressed_70.jpg
-  
-  kep3_bw.jpg
-  
-  kep4_rotated.jpg
-  
-  kep5_png_to_jpg.jpg
+ - kep1_resized_800px.jpg
+ - kep2_compressed_70.jpg
+ - kep3_bw.jpg
+ - kep4_rotated.jpg
+ - kep5_png_to_jpg.jpg
   
 -----------------------
 
@@ -82,9 +78,9 @@ A fájlnevek automatikusan kiegészülnek a művelet jelölésével, pl.:
 
 A program futtatásához Python és két csomag szükséges:
 
-pip install pillow
+- pip install pillow
 
-pip install tk
+- pip install tk
 
 -----------------------
 
@@ -122,9 +118,9 @@ IV. A program elvégzi a műveletet minden képen automatikusan.
 -----------------------
 
 ### Készítők:
-  Borics Gergő Bendegúz
+ - Borics Gergő Bendegúz
   
-  Molnár Gábor
+ - Molnár Gábor
 
 -----------------------
 
