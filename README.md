@@ -66,6 +66,7 @@ A feldolgozott képek a következő helyre kerülnek:
   output mappába
 
 A fájlnevek automatikusan kiegészülnek a művelet jelölésével, pl.:
+
   kep1_resized_800px.jpg
   
   kep2_compressed_70.jpg
@@ -90,8 +91,11 @@ pip install tk
 ### Használat:
 
 I. Futtasd a programot: Futtasd a programot:
+
 II. Válaszd ki a képeket tartalmazó mappát (egy fájlböngésző ablak jelenik meg).
+
 III. Válassz egy funkciót a menüből:
+
   1. Képek tömörítése
   2. Képek pixel átméretezése (arányos)
   3. Fekete-fehér
@@ -107,7 +111,7 @@ IV. A program elvégzi a műveletet minden képen automatikusan.
 
 ### Projekt felépítése
    project/
-  │
+        │
   
   ├── main.py         # A program fő fájlja
   
