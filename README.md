@@ -1,4 +1,4 @@
-Képmódosító Script
+### Képmódosító Script
 
 Ez a projekt egy Python alapú **batch képmódosító program**, amely egyszerre több képet képes feldolgozni egy kiválasztott mappából.  
 A script grafikus mappaválasztóval működik, majd a felhasználó által kiválasztott műveletet **minden képre automatikusan alkalmazza**.
@@ -7,7 +7,7 @@ A program kifejezetten alkalmas nagy mennyiségű kép gyors feldolgozására.
 
 -----------------------
 
-###Funkciók
+### Funkciók
 
 A program az alábbi műveleteket támogatja:
 
@@ -77,7 +77,7 @@ A fájlnevek automatikusan kiegészülnek a művelet jelölésével, pl.:
 ### Telepítés
 
 A program futtatásához Python és két csomag szükséges:
-```bash
+
 pip install pillow
 pip install tk
 
