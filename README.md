@@ -67,9 +67,13 @@ A feldolgozott képek a következő helyre kerülnek:
 
 A fájlnevek automatikusan kiegészülnek a művelet jelölésével, pl.:
   kep1_resized_800px.jpg
+  
   kep2_compressed_70.jpg
+  
   kep3_bw.jpg
+  
   kep4_rotated.jpg
+  
   kep5_png_to_jpg.jpg
   
 -----------------------
@@ -104,14 +108,18 @@ IV. A program elvégzi a műveletet minden képen automatikusan.
 ### Projekt felépítése
    project/
   │
+  
   ├── main.py         # A program fő fájlja
+  
   ├── README.md       # Dokumentáció
+  
   └── output/         # Ide mentődnek a feldolgozott képek
 
 -----------------------
 
 ### Készítők:
   Borics Gergő Bendegúz
+  
   Molnár Gábor
 
 -----------------------
