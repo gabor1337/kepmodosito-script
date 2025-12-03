@@ -55,6 +55,7 @@ Bal–jobb irányú tükrözés minden képen.
 
 ###  6. PNG → JPG átalakítás
 ###  7. JPG → PNG átalakítás
+###  8. Képvágás(crop)
 
 Mindkét irányú konverzió automatikusan, batch módban működik.
 
@@ -99,7 +100,8 @@ III. Válassz egy funkciót a menüből:
   5. Tükrözés
   6. PNG → JPG
   7. JPG → PNG
-  8. Kilépés
+  8. Képvágás(crop)
+  9. Kilépés
 
 IV. A program elvégzi a műveletet minden képen automatikusan.
 
